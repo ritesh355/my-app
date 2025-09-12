@@ -1,4 +1,4 @@
 print("Hello, GitHub Actions!")
 print ("ritesh")
 print ("rupesh")
-print ("Riya")
+prin ("Riya")
