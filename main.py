@@ -1,4 +1,4 @@
-print("Hello, GitHub Actions!")
+print"Hello, GitHub Actions!")
 print ("ritesh")
 print ("rupesh")
-prin ("Riya")
+print ("Riya")
