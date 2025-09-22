@@ -1,6 +1,6 @@
 
 ## 🚀 CI/CD Status
-![Build & Deploy](https://github.com/ritesh355/portfolio/tree/main/.github/workflows/main.yml/badge.svg)
+![Build & Deploy](https://github.com/ritesh355/portfolio/blob/main/.github/workflows/main.yml/badge.svg)
 
 ## 🔄 Deployment Workflow
 ```mermaid
